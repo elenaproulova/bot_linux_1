@@ -1,7 +1,7 @@
 import telebot
 
 # Замените 'YOUR_BOT_TOKEN' на токен, который вы получили от BotFather
-TOKEN = '8022656828:AAGoJrXZV52fgqzYmDeAPAIectuwFu538q4'
+TOKEN = '_'
 bot = telebot.TeleBot(TOKEN)
 
 # Обработчик для приёма текстовых сообщений
